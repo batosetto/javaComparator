@@ -1,0 +1,11 @@
+Product Id,Product Name,Price
+1,Wine - Vovray Sec Domaine Huet,$25.68
+2,"Oil - Truffle, Black",$23.98
+3,Nori Sea Weed,$21.75
+4,Tomatoes,$30.53
+5,Truffle Cups - White Paper,$13.87
+6,"Jam - Blackberry, 20 Ml Jar",$45.51
+7,Pickles - Gherkins,$22.99
+8,Truffle Shells - Semi - Sweet,$43.99
+9,Appetizer - Seafood Assortment,$34.90
+10,Bread - Flat Bread,$13.72
